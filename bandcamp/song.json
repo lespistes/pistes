@@ -1,0 +1,612 @@
+{
+  "@type": "MusicRecording",
+  "@id": "https://erikadecasier.bandcamp.com/track/miss",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "track_id",
+      "value": 2959002848
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "art_id",
+      "value": 3386965825
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "license_name",
+      "value": "all_rights_reserved"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "tracknum",
+      "value": 1
+    }
+  ],
+  "name": "Miss",
+  "duration": "P00H03M09S",
+  "dateModified": "08 May 2025 06:42:58 GMT",
+  "datePublished": "08 May 2025 00:00:00 GMT",
+  "inAlbum": {
+    "@type": "MusicAlbum",
+    "name": "Lifetime",
+    "albumRelease": [
+      {
+        "@type": "MusicRelease",
+        "@id": "https://erikadecasier.bandcamp.com/album/lifetime",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "item_type",
+            "value": "a"
+          }
+        ]
+      },
+      {
+        "@type": [
+          "MusicRelease",
+          "Product"
+        ],
+        "@id": "https://erikadecasier.bandcamp.com/track/miss",
+        "name": "Miss",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "item_id",
+            "value": 2959002848
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "item_type",
+            "value": "t"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "selling_band_id",
+            "value": 4121428360
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "type_name",
+            "value": "Digital"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "art_id",
+            "value": 3386965825
+          }
+        ],
+        "description": "Includes high-quality download in MP3, FLAC and more. Paying supporters also get unlimited streaming via the free Bandcamp app.",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://erikadecasier.bandcamp.com/track/miss#t2959002848-buy",
+          "priceCurrency": "EUR",
+          "price": 0.99,
+          "priceSpecification": {
+            "minPrice": 0.99
+          },
+          "availability": "OnlineOnly"
+        },
+        "musicReleaseFormat": "DigitalFormat",
+        "image": [
+          "https://f4.bcbits.com/img/a3386965825_10.jpg"
+        ]
+      },
+      {
+        "@type": [
+          "MusicRelease",
+          "Product"
+        ],
+        "@id": "https://erikadecasier.bandcamp.com/track/miss#p1335472862",
+        "name": "12\" Vinyl (pre-order)",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "item_id",
+            "value": 1335472862
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "item_type",
+            "value": "p"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "selling_band_id",
+            "value": 4121428360
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "type_name",
+            "value": "Vinyl LP"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "image_ids",
+            "value": [
+              39562330,
+              39575635,
+              39575637
+            ]
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "is_music_merch",
+            "value": true
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "type_id",
+            "value": 2
+          }
+        ],
+        "description": "All tracks written and produced by Erika de Casier\nMix by Alonzo Vargas\nMaster by Joe Laporta\n2025 Independent Jeep Music",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://erikadecasier.bandcamp.com/track/miss#p1335472862-buy",
+          "priceCurrency": "EUR",
+          "price": 26.0,
+          "priceSpecification": {
+            "price": 26.0
+          },
+          "availability": "InStock",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "includes_digital_download",
+              "value": true
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "is_set_price",
+              "value": 1
+            }
+          ]
+        },
+        "musicReleaseFormat": "VinylFormat",
+        "image": [
+          "https://f4.bcbits.com/img/0039562330_10.jpg",
+          "https://f4.bcbits.com/img/0039575635_10.jpg",
+          "https://f4.bcbits.com/img/0039575637_10.jpg"
+        ]
+      }
+    ],
+    "albumReleaseType": "SingleRelease",
+    "@id": "https://erikadecasier.bandcamp.com/album/lifetime",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "download_pref",
+        "value": 2
+      }
+    ]
+  },
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Erika de Casier",
+    "@id": "https://erikadecasier.bandcamp.com"
+  },
+  "publisher": {
+    "@type": "MusicGroup",
+    "@id": "https://erikadecasier.bandcamp.com",
+    "name": "Erika de Casier",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "band_id",
+        "value": 4121428360
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "has_any_downloads",
+        "value": true
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "has_download_codes",
+        "value": true
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "image_height",
+        "value": 908
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "image_id",
+        "value": 39337165
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "image_width",
+        "value": 953
+      }
+    ],
+    "image": "https://f4.bcbits.com/img/0039337165_10.jpg",
+    "genre": "https://bandcamp.com/discover/r-b-soul",
+    "mainEntityOfPage": [
+      {
+        "@type": "WebPage",
+        "url": "https://www.instagram.com/erikadecasier/",
+        "name": "Instagram"
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.youtube.com/ECTVchannel",
+        "name": "YouTube"
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.facebook.com/erikadecasier",
+        "name": "Facebook"
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://soundcloud.com/erikacasier",
+        "name": "SoundCloud"
+      }
+    ],
+    "event": [
+      {
+        "@type": "MusicEvent",
+        "name": "El Rey Theatre, Los Angeles (LA), CA",
+        "startDate": "14 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "El Rey Theatre",
+          "address": "Los Angeles (LA), CA"
+        },
+        "url": "https://www.songkick.com/concerts/42601250-erika-de-casier-at-el-rey-theatre?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Great American Music Hall, San Francisco, CA",
+        "startDate": "15 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Great American Music Hall",
+          "address": "San Francisco, CA"
+        },
+        "url": "https://www.songkick.com/concerts/42601054-erika-de-casier-at-great-american-music-hall?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "The Masquerade - Hell, Atlanta, GA",
+        "startDate": "19 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "The Masquerade - Hell",
+          "address": "Atlanta, GA"
+        },
+        "url": "https://www.songkick.com/concerts/42599413-erika-de-casier-at-masquerade-hell?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Outset, Chicago, IL",
+        "startDate": "21 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Outset",
+          "address": "Chicago, IL"
+        },
+        "url": "https://www.songkick.com/concerts/42599659-erika-de-casier-at-outset?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Axis Club, Toronto, ON",
+        "startDate": "22 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Axis Club",
+          "address": "Toronto, ON"
+        },
+        "url": "https://www.songkick.com/concerts/42599694-erika-de-casier-at-axis-club?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Knockdown Center, New York (NYC), NY",
+        "startDate": "24 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Knockdown Center",
+          "address": "New York (NYC), NY"
+        },
+        "url": "https://www.songkick.com/concerts/42596340-erika-de-casier-at-knockdown-center?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Le Trianon, Paris, France",
+        "startDate": "04 Nov 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Le Trianon",
+          "address": "Paris, France"
+        },
+        "url": "https://www.songkick.com/festivals/3722654-erika-de-casier-lea-sen-more-pitchfork-music-paris-2025/id/42519568-erika-de-casier-la-sen--more--pitchfork-music-festival-paris-2025-2025?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Pabellón 1 Fira De Barcelona Montjuïc, Barcelona, Spain",
+        "startDate": "07 Nov 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Pabellón 1 Fira De Barcelona Montjuïc",
+          "address": "Barcelona, Spain"
+        },
+        "url": "https://www.songkick.com/festivals/325423-mira/id/42267959-mira-festival-2025?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Roundhouse, London, UK",
+        "startDate": "07 Nov 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Roundhouse",
+          "address": "London, UK"
+        },
+        "url": "https://www.songkick.com/festivals/3723300-oklou-erika-de-casier-malibu/id/42421964-oklou--erika-de-casier--malibu-2025?utm_source=1471&utm_medium=partner"
+      }
+    ],
+    "subjectOf": [
+      {
+        "@type": "WebPage",
+        "url": "https://erikadecasier.bandcamp.com/music",
+        "name": "music",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "nav_type",
+            "value": "m"
+          }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://erikadecasier.bandcamp.com/merch",
+        "name": "merch",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "nav_type",
+            "value": "p"
+          }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://erikadecasier.bandcamp.com/community",
+        "name": "community",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "nav_type",
+            "value": "c"
+          }
+        ]
+      }
+    ],
+    "foundingLocation": {
+      "@type": "Place",
+      "name": "Copenhagen, Denmark"
+    }
+  },
+  "copyrightNotice": "All Rights Reserved",
+  "keywords": [
+    "R&B/Soul",
+    "trip hop",
+    "Copenhagen"
+  ],
+  "image": "https://f4.bcbits.com/img/a3386965825_10.jpg",
+  "sponsor": [
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/maccalaaa",
+      "image": "https://f4.bcbits.com/img/0020970712_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 20970712
+        }
+      ],
+      "name": "Macca"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/samtaylor24",
+      "image": "https://f4.bcbits.com/img/0016330552_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 16330552
+        }
+      ],
+      "name": "samtaylor24"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/olybugg",
+      "image": "https://f4.bcbits.com/img/0035163089_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 35163089
+        }
+      ],
+      "name": "boring angel"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/hwvb",
+      "image": "https://f4.bcbits.com/img/0020200480_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 20200480
+        }
+      ],
+      "name": "Dub Specialist"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/misou",
+      "image": "https://f4.bcbits.com/img/0008845782_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 8845782
+        }
+      ],
+      "name": "Radio 100,7"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/lovieworld",
+      "image": "https://f4.bcbits.com/img/0027908210_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 27908210
+        }
+      ],
+      "name": "Lovie ♡"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/whoisvo",
+      "image": "https://f4.bcbits.com/img/0035769043_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 35769043
+        }
+      ],
+      "name": "whoisvo"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/doolittle-tame",
+      "image": "https://f4.bcbits.com/img/0011957381_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 11957381
+        }
+      ],
+      "name": "doolittle-tame"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/dlgarber",
+      "image": "https://f4.bcbits.com/img/0008588440_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 8588440
+        }
+      ],
+      "name": "wig~wam"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/danimka",
+      "image": "https://f4.bcbits.com/img/0034674424_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 34674424
+        }
+      ],
+      "name": "danimka"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/rorybowens",
+      "image": "https://f4.bcbits.com/img/0027865008_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 27865008
+        }
+      ],
+      "name": "Rory Bowens"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/jaimesin",
+      "image": "https://f4.bcbits.com/img/0008107992_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 8107992
+        }
+      ],
+      "name": "Jaime Sin"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/wattman2124",
+      "image": "https://f4.bcbits.com/img/0004303015_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 4303015
+        }
+      ],
+      "name": "ORKL"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/larr95",
+      "image": "https://f4.bcbits.com/img/0020309180_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 20309180
+        }
+      ],
+      "name": "larr95"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/radio_fm",
+      "image": "https://f4.bcbits.com/img/0026105143_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 26105143
+        }
+      ],
+      "name": "Radio_FM"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/hirosh3000",
+      "image": "https://f4.bcbits.com/img/0015312036_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 15312036
+        }
+      ],
+      "name": "hirosh3000"
+    }
+  ],
+  "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/miss",
+  "@context": "https://schema.org"
+}

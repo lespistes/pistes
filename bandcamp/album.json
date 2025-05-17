@@ -1,0 +1,1851 @@
+        {
+  "albumReleaseType": "AlbumRelease",
+  "@id": "https://erikadecasier.bandcamp.com/album/lifetime",
+  "mainEntityOfPage": "https://erikadecasier.bandcamp.com/album/lifetime",
+  "@type": "MusicAlbum",
+  "name": "Lifetime",
+  "dateModified": "08 May 2025 06:57:38 GMT",
+  "albumRelease": [
+    {
+      "@type": [
+        "MusicRelease",
+        "Product"
+      ],
+      "@id": "https://erikadecasier.bandcamp.com/album/lifetime",
+      "name": "Lifetime",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "item_id",
+          "value": 3303681947
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "item_type",
+          "value": "a"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "selling_band_id",
+          "value": 4121428360
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "type_name",
+          "value": "Digital"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "art_id",
+          "value": 3386965825
+        }
+      ],
+      "description": "Includes high-quality download in MP3, FLAC and more. Paying supporters also get unlimited streaming via the free Bandcamp app.",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://erikadecasier.bandcamp.com/album/lifetime#a3303681947-buy",
+        "priceCurrency": "EUR",
+        "price": 10.0,
+        "priceSpecification": {
+          "minPrice": 10.0
+        },
+        "availability": "OnlineOnly"
+      },
+      "musicReleaseFormat": "DigitalFormat",
+      "image": [
+        "https://f4.bcbits.com/img/a3386965825_10.jpg"
+      ]
+    },
+    {
+      "@type": [
+        "MusicRelease",
+        "Product"
+      ],
+      "@id": "https://erikadecasier.bandcamp.com/album/lifetime#p1335472862",
+      "name": "12\" Vinyl (pre-order)",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "item_id",
+          "value": 1335472862
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "item_type",
+          "value": "p"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "selling_band_id",
+          "value": 4121428360
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "type_name",
+          "value": "Vinyl LP"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "image_ids",
+          "value": [
+            39562330,
+            39575635,
+            39575637
+          ]
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "is_music_merch",
+          "value": true
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "type_id",
+          "value": 2
+        }
+      ],
+      "description": "All tracks written and produced by Erika de Casier\nMix by Alonzo Vargas\nMaster by Joe Laporta\n2025 Independent Jeep Music",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://erikadecasier.bandcamp.com/album/lifetime#p1335472862-buy",
+        "priceCurrency": "EUR",
+        "price": 26.0,
+        "priceSpecification": {
+          "price": 26.0
+        },
+        "availability": "InStock",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "includes_digital_download",
+            "value": true
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "is_set_price",
+            "value": 1
+          }
+        ]
+      },
+      "musicReleaseFormat": "VinylFormat",
+      "image": [
+        "https://f4.bcbits.com/img/0039562330_10.jpg",
+        "https://f4.bcbits.com/img/0039575635_10.jpg",
+        "https://f4.bcbits.com/img/0039575637_10.jpg"
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/miss"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/you-cant-always-get-what-you-want"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/seasons"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/you-got-it"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/december"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/delusional"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/the-chase"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/moan"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/the-garden"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/two-thieves"
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://erikadecasier.bandcamp.com/track/lifetime"
+    }
+  ],
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Erika de Casier",
+    "@id": "https://erikadecasier.bandcamp.com"
+  },
+  "publisher": {
+    "@type": "MusicGroup",
+    "@id": "https://erikadecasier.bandcamp.com",
+    "name": "Erika de Casier",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "band_id",
+        "value": 4121428360
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "has_any_downloads",
+        "value": true
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "has_download_codes",
+        "value": true
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "image_height",
+        "value": 908
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "image_id",
+        "value": 39337165
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "image_width",
+        "value": 953
+      }
+    ],
+    "image": "https://f4.bcbits.com/img/0039337165_10.jpg",
+    "genre": "https://bandcamp.com/discover/r-b-soul",
+    "mainEntityOfPage": [
+      {
+        "@type": "WebPage",
+        "url": "https://www.instagram.com/erikadecasier/",
+        "name": "Instagram"
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.youtube.com/ECTVchannel",
+        "name": "YouTube"
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://www.facebook.com/erikadecasier",
+        "name": "Facebook"
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://soundcloud.com/erikacasier",
+        "name": "SoundCloud"
+      }
+    ],
+    "event": [
+      {
+        "@type": "MusicEvent",
+        "name": "El Rey Theatre, Los Angeles (LA), CA",
+        "startDate": "14 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "El Rey Theatre",
+          "address": "Los Angeles (LA), CA"
+        },
+        "url": "https://www.songkick.com/concerts/42601250-erika-de-casier-at-el-rey-theatre?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Great American Music Hall, San Francisco, CA",
+        "startDate": "15 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Great American Music Hall",
+          "address": "San Francisco, CA"
+        },
+        "url": "https://www.songkick.com/concerts/42601054-erika-de-casier-at-great-american-music-hall?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "The Masquerade - Hell, Atlanta, GA",
+        "startDate": "19 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "The Masquerade - Hell",
+          "address": "Atlanta, GA"
+        },
+        "url": "https://www.songkick.com/concerts/42599413-erika-de-casier-at-masquerade-hell?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Outset, Chicago, IL",
+        "startDate": "21 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Outset",
+          "address": "Chicago, IL"
+        },
+        "url": "https://www.songkick.com/concerts/42599659-erika-de-casier-at-outset?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Axis Club, Toronto, ON",
+        "startDate": "22 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Axis Club",
+          "address": "Toronto, ON"
+        },
+        "url": "https://www.songkick.com/concerts/42599694-erika-de-casier-at-axis-club?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Knockdown Center, New York (NYC), NY",
+        "startDate": "24 Oct 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Knockdown Center",
+          "address": "New York (NYC), NY"
+        },
+        "url": "https://www.songkick.com/concerts/42596340-erika-de-casier-at-knockdown-center?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Le Trianon, Paris, France",
+        "startDate": "04 Nov 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Le Trianon",
+          "address": "Paris, France"
+        },
+        "url": "https://www.songkick.com/festivals/3722654-erika-de-casier-lea-sen-more-pitchfork-music-paris-2025/id/42519568-erika-de-casier-la-sen--more--pitchfork-music-festival-paris-2025-2025?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Pabellón 1 Fira De Barcelona Montjuïc, Barcelona, Spain",
+        "startDate": "07 Nov 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Pabellón 1 Fira De Barcelona Montjuïc",
+          "address": "Barcelona, Spain"
+        },
+        "url": "https://www.songkick.com/festivals/325423-mira/id/42267959-mira-festival-2025?utm_source=1471&utm_medium=partner"
+      },
+      {
+        "@type": "MusicEvent",
+        "name": "Roundhouse, London, UK",
+        "startDate": "07 Nov 2025 00:00:00 GMT",
+        "location": {
+          "@type": "MusicVenue",
+          "name": "Roundhouse",
+          "address": "London, UK"
+        },
+        "url": "https://www.songkick.com/festivals/3723300-oklou-erika-de-casier-malibu/id/42421964-oklou--erika-de-casier--malibu-2025?utm_source=1471&utm_medium=partner"
+      }
+    ],
+    "subjectOf": [
+      {
+        "@type": "WebPage",
+        "url": "https://erikadecasier.bandcamp.com/music",
+        "name": "music",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "nav_type",
+            "value": "m"
+          }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://erikadecasier.bandcamp.com/merch",
+        "name": "merch",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "nav_type",
+            "value": "p"
+          }
+        ]
+      },
+      {
+        "@type": "WebPage",
+        "url": "https://erikadecasier.bandcamp.com/community",
+        "name": "community",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "nav_type",
+            "value": "c"
+          }
+        ]
+      }
+    ],
+    "foundingLocation": {
+      "@type": "Place",
+      "name": "Copenhagen, Denmark"
+    }
+  },
+  "numTracks": 11,
+  "track": {
+    "@type": "ItemList",
+    "numberOfItems": 11,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/miss",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 2959002848
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "Miss",
+          "duration": "P00H03M09S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/miss"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/you-cant-always-get-what-you-want",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 3822841444
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "You Can't Always Get What You Want",
+          "duration": "P00H03M30S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/you-cant-always-get-what-you-want"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/seasons",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 1007464690
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "Seasons",
+          "duration": "P00H02M09S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/seasons"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/you-got-it",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 489377901
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "You Got It!",
+          "duration": "P00H01M54S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/you-got-it"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/december",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 25910376
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "December",
+          "duration": "P00H03M00S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/december"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/delusional",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 1067209156
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "Delusional",
+          "duration": "P00H02M27S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/delusional"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/the-chase",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 901455284
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "The Chase",
+          "duration": "P00H02M22S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/the-chase"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/moan",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 3019072724
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "Moan",
+          "duration": "P00H02M39S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/moan"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/the-garden",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 1842739920
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "The Garden",
+          "duration": "P00H03M02S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/the-garden"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/two-thieves",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 4022539927
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "Two Thieves",
+          "duration": "P00H03M24S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/two-thieves"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "item": {
+          "@type": "MusicRecording",
+          "@id": "https://erikadecasier.bandcamp.com/track/lifetime",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "track_id",
+              "value": 2530946509
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "license_name",
+              "value": "all_rights_reserved"
+            }
+          ],
+          "name": "Lifetime",
+          "duration": "P00H03M04S",
+          "copyrightNotice": "All Rights Reserved",
+          "mainEntityOfPage": "https://erikadecasier.bandcamp.com/track/lifetime"
+        }
+      }
+    ]
+  },
+  "image": "https://f4.bcbits.com/img/a3386965825_10.jpg",
+  "keywords": [
+    "R&B/Soul",
+    "trip hop",
+    "Copenhagen"
+  ],
+  "datePublished": "08 May 2025 00:00:00 GMT",
+  "creditText": "All tracks written and produced by Erika de Casier\r\nMix by Alonzo Vargas\r\nMaster by Joe Laporta\r\n2025 Independent Jeep Music",
+  "copyrightNotice": "All Rights Reserved",
+  "comment": [
+    {
+      "@type": "Comment",
+      "author": {
+        "@type": "Person",
+        "url": "https://bandcamp.com/nodge05",
+        "image": "https://f4.bcbits.com/img/0037802545_50.jpg",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "image_id",
+            "value": 37802545
+          }
+        ],
+        "name": "nodge05"
+      },
+      "text": [
+        "Erika has really honed in on a sound here that is so confidently her. I can't stop streaming this. ",
+        "Favorite track: You Can't Always Get What You Want"
+      ]
+    },
+    {
+      "@type": "Comment",
+      "author": {
+        "@type": "Person",
+        "url": "https://bandcamp.com/minniedrb",
+        "image": "https://f4.bcbits.com/img/0032542593_50.jpg",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "image_id",
+            "value": 32542593
+          }
+        ],
+        "name": "dominica"
+      },
+      "text": [
+        "She is back and sounding more sultry than ever!!!\n",
+        "Favorite track: Seasons"
+      ]
+    },
+    {
+      "@type": "Comment",
+      "author": {
+        "@type": "Person",
+        "url": "https://bandcamp.com/chokedenough",
+        "image": "https://f4.bcbits.com/img/0038877837_50.jpg",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "image_id",
+            "value": 38877837
+          }
+        ],
+        "name": "jacob"
+      },
+      "text": [
+        "this is everything i've ever wanted from erika, it's probably my favorite project of hers. soft, lush vocals and downtempo/triphop beats. such a gorgeous aoty!",
+        "Favorite track: Two Thieves"
+      ]
+    },
+    {
+      "@type": "Comment",
+      "author": {
+        "@type": "Person",
+        "url": "https://bandcamp.com/ketiamina",
+        "image": "https://f4.bcbits.com/img/0026905622_50.jpg",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "image_id",
+            "value": 26905622
+          }
+        ],
+        "name": "ketia borg"
+      },
+      "text": [
+        "love seeing her release independently and leaning into her strengths and talent which lays in her own production <3 a sonic landscape to lay on and look at the clouds",
+        "Favorite track: You Can't Always Get What You Want"
+      ]
+    },
+    {
+      "@type": "Comment",
+      "author": {
+        "@type": "Person",
+        "url": "https://bandcamp.com/discoholmes",
+        "image": "https://f4.bcbits.com/img/0018754348_50.jpg",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "image_id",
+            "value": 18754348
+          }
+        ],
+        "name": "John Holmes"
+      },
+      "text": [
+        "Erika is the queen. Vibe, emotion and cool."
+      ]
+    },
+    {
+      "@type": "Comment",
+      "author": {
+        "@type": "Person",
+        "url": "https://bandcamp.com/htphinney",
+        "image": "https://f4.bcbits.com/img/0022692551_50.jpg",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "image_id",
+            "value": 22692551
+          }
+        ],
+        "name": "Harrison Phinney"
+      },
+      "text": [
+        "I gasped!!!!! Delightful midnight surprise :)"
+      ]
+    }
+  ],
+  "sponsor": [
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/thisismaka",
+      "image": "https://f4.bcbits.com/img/0034786785_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 34786785
+        }
+      ],
+      "name": "Maka"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/gangare1992",
+      "image": "https://f4.bcbits.com/img/0025225954_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 25225954
+        }
+      ],
+      "name": "Stupid Kozo"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/piraffe",
+      "image": "https://f4.bcbits.com/img/0026242082_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 26242082
+        }
+      ],
+      "name": "piraffe"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/mammalsounds",
+      "image": "https://f4.bcbits.com/img/0006507808_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 6507808
+        }
+      ],
+      "name": "Mammalsounds"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/isaac829",
+      "image": "https://f4.bcbits.com/img/0037019713_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 37019713
+        }
+      ],
+      "name": "isaac829"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/philipgraham",
+      "image": "https://f4.bcbits.com/img/0002046050_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 2046050
+        }
+      ],
+      "name": "Philip Graham"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/brephophagist",
+      "image": "https://f4.bcbits.com/img/0004819226_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 4819226
+        }
+      ],
+      "name": "brephophagist"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/jfro29",
+      "image": "https://f4.bcbits.com/img/0039046438_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 39046438
+        }
+      ],
+      "name": "jfro29"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/linthberg",
+      "image": "https://f4.bcbits.com/img/0036584508_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 36584508
+        }
+      ],
+      "name": "Linthberg"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/wickedbabe",
+      "image": "https://f4.bcbits.com/img/0034979842_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 34979842
+        }
+      ],
+      "name": "Antelmo Gonzalez"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/RallecRood",
+      "image": "https://f4.bcbits.com/img/0019659993_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 19659993
+        }
+      ],
+      "name": "Rallec Rood"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/f0vian",
+      "image": "https://f4.bcbits.com/img/0038592221_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 38592221
+        }
+      ],
+      "name": "partysupplies"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/leonrw",
+      "image": "https://f4.bcbits.com/img/0012099614_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 12099614
+        }
+      ],
+      "name": "loaf"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/allinsnap",
+      "image": "https://f4.bcbits.com/img/0030417847_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 30417847
+        }
+      ],
+      "name": "allinsnap"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/pelle_rock",
+      "image": "https://f4.bcbits.com/img/0025677877_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 25677877
+        }
+      ],
+      "name": "pelle rock"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/romanely12",
+      "image": "https://f4.bcbits.com/img/0019583336_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 19583336
+        }
+      ],
+      "name": "Lincoln Park"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/danimamath",
+      "image": "https://f4.bcbits.com/img/0018119726_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 18119726
+        }
+      ],
+      "name": "danimamath"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/sevenoclocknews",
+      "image": "https://f4.bcbits.com/img/0012096420_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 12096420
+        }
+      ],
+      "name": "𝕤𝕖𝕧𝕖𝕟𝕠𝕔𝕝𝕠𝕔𝕜𝕟𝕖𝕨𝕤"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/falsehigh",
+      "image": "https://f4.bcbits.com/img/0036307084_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 36307084
+        }
+      ],
+      "name": "falsehigh"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/photek24",
+      "image": "https://f4.bcbits.com/img/0032991647_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 32991647
+        }
+      ],
+      "name": "photek24"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/thefuckingburningribbons",
+      "image": "https://f4.bcbits.com/img/0014699191_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 14699191
+        }
+      ],
+      "name": "burningribbons"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/johannesleth",
+      "image": "https://f4.bcbits.com/img/0037841806_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 37841806
+        }
+      ],
+      "name": "johannesleth"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/vanillaswingers",
+      "image": "https://f4.bcbits.com/img/0025757732_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 25757732
+        }
+      ],
+      "name": "Vanilla Swingers"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/amnesiac0",
+      "image": "https://f4.bcbits.com/img/0013991202_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 13991202
+        }
+      ],
+      "name": "Amnesiac"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/adrianmarklevy",
+      "image": "https://f4.bcbits.com/img/0005857258_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 5857258
+        }
+      ],
+      "name": "AML"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/jaqckglam",
+      "image": "https://f4.bcbits.com/img/0025070738_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 25070738
+        }
+      ],
+      "name": "jaqckglam"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/odinn",
+      "image": "https://f4.bcbits.com/img/0008547075_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 8547075
+        }
+      ],
+      "name": "Odinn Adalsteinsson"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/foresttemple",
+      "image": "https://f4.bcbits.com/img/0021408041_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 21408041
+        }
+      ],
+      "name": "foresttemple"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/daveheaton",
+      "image": "https://f4.bcbits.com/img/0025908658_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 25908658
+        }
+      ],
+      "name": "Dave Heaton"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/jarodmartens",
+      "image": "https://f4.bcbits.com/img/0038500460_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 38500460
+        }
+      ],
+      "name": "9"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/deathlordsreign",
+      "image": "https://f4.bcbits.com/img/0037517011_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 37517011
+        }
+      ],
+      "name": "ek"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/hustlecry",
+      "image": "https://f4.bcbits.com/img/0039148236_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 39148236
+        }
+      ],
+      "name": "Hustle Cry"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/mkroberson0208",
+      "image": "https://f4.bcbits.com/img/0010955165_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 10955165
+        }
+      ],
+      "name": "DJ Radiant Energy"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/irlhuman",
+      "image": "https://f4.bcbits.com/img/0014749793_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 14749793
+        }
+      ],
+      "name": "IRL "
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/aprholt",
+      "image": "https://f4.bcbits.com/img/0037998467_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 37998467
+        }
+      ],
+      "name": "aprholt"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/volt29",
+      "image": "https://f4.bcbits.com/img/0032497094_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 32497094
+        }
+      ],
+      "name": "volt29"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/timterpstra",
+      "image": "https://f4.bcbits.com/img/0006861636_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 6861636
+        }
+      ],
+      "name": "Tim Terpstra"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/zeverinz",
+      "image": "https://f4.bcbits.com/img/0017302716_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 17302716
+        }
+      ],
+      "name": "zeverinz"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/huonehelsinki",
+      "image": "https://f4.bcbits.com/img/0025168910_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 25168910
+        }
+      ],
+      "name": "Lukasz Sawicki"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/ifbookwormsruledtheworld",
+      "image": "https://f4.bcbits.com/img/0033885817_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 33885817
+        }
+      ],
+      "name": "ifbookwormsruledtheworld"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/rhythmsection",
+      "image": "https://f4.bcbits.com/img/0011690910_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 11690910
+        }
+      ],
+      "name": "Rhythm Section INTL"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/aka_hige",
+      "image": "https://f4.bcbits.com/img/0001496013_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 1496013
+        }
+      ],
+      "name": "Paul"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/self_scare",
+      "image": "https://f4.bcbits.com/img/0035123393_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 35123393
+        }
+      ],
+      "name": "ARDOUR"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/mimmers",
+      "image": "https://f4.bcbits.com/img/0009574435_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 9574435
+        }
+      ],
+      "name": "James McDaniel"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/chillspace",
+      "image": "https://f4.bcbits.com/img/0002689125_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 2689125
+        }
+      ],
+      "name": "Eric J"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/sprout23",
+      "image": "https://f4.bcbits.com/img/0012116790_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 12116790
+        }
+      ],
+      "name": "David Hoffman"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/lanvin_5",
+      "image": "https://f4.bcbits.com/img/0013988199_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 13988199
+        }
+      ],
+      "name": "astro zerozero"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/oppsrev",
+      "image": "https://f4.bcbits.com/img/0022542091_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 22542091
+        }
+      ],
+      "name": "oppsrev"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/Girlnevergoesout",
+      "image": "https://f4.bcbits.com/img/0012582526_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 12582526
+        }
+      ],
+      "name": "christina "
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/pielcanela",
+      "image": "https://f4.bcbits.com/img/0020981384_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 20981384
+        }
+      ],
+      "name": "diana jg"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/ian_mcdowell",
+      "image": "https://f4.bcbits.com/img/0018248450_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 18248450
+        }
+      ],
+      "name": "option constant"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/poundcake10",
+      "image": "https://f4.bcbits.com/img/0022964678_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 22964678
+        }
+      ],
+      "name": "ghoulspeare"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/bryanpetersen",
+      "image": "https://f4.bcbits.com/img/0018867058_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 18867058
+        }
+      ],
+      "name": "Bryan Petersen"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/wikipedial",
+      "image": "https://f4.bcbits.com/img/0039320759_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 39320759
+        }
+      ],
+      "name": "wikipedial"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/indiebrat",
+      "image": "https://f4.bcbits.com/img/0036743504_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 36743504
+        }
+      ],
+      "name": "dj puppyyy ✨"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/ibrooks",
+      "image": "https://f4.bcbits.com/img/0024848789_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 24848789
+        }
+      ],
+      "name": "Ian Brooks"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/beepbeepbooks",
+      "image": "https://f4.bcbits.com/img/0022857096_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 22857096
+        }
+      ],
+      "name": "Charlie Kruse"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/olliegn",
+      "image": "https://f4.bcbits.com/img/0029343411_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 29343411
+        }
+      ],
+      "name": "ollie gn"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/pacifichouse",
+      "image": "https://f4.bcbits.com/img/0020924724_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 20924724
+        }
+      ],
+      "name": "Pacific House"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/PiotrSokolov",
+      "image": "https://f4.bcbits.com/img/0035631893_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 35631893
+        }
+      ],
+      "name": "PiotrSokolov"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/starsofcurtains",
+      "image": "https://f4.bcbits.com/img/0020755601_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 20755601
+        }
+      ],
+      "name": "starsofcurtains"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/matthesb",
+      "image": "https://f4.bcbits.com/img/0018247891_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 18247891
+        }
+      ],
+      "name": "Matthes"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/juantariko",
+      "image": "https://f4.bcbits.com/img/0023733547_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 23733547
+        }
+      ],
+      "name": "juaneltariko"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/nagare08",
+      "image": "https://f4.bcbits.com/img/0038842158_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 38842158
+        }
+      ],
+      "name": "sumi08"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/philipsherburne",
+      "image": "https://f4.bcbits.com/img/0026907495_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 26907495
+        }
+      ],
+      "name": "Philip Sherburne"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/billymoroney",
+      "image": "https://f4.bcbits.com/img/0024565160_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 24565160
+        }
+      ],
+      "name": "Billy Moroney"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/dontpressme",
+      "image": "https://f4.bcbits.com/img/0031464732_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 31464732
+        }
+      ],
+      "name": "dontpressme"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/inlandempire",
+      "image": "https://f4.bcbits.com/img/0025481510_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 25481510
+        }
+      ],
+      "name": "J W"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/lennoxlove",
+      "image": "https://f4.bcbits.com/img/0013658964_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 13658964
+        }
+      ],
+      "name": "LennoxLove"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/retul",
+      "image": "https://f4.bcbits.com/img/0033517108_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 33517108
+        }
+      ],
+      "name": "texas"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/kieranwav23",
+      "image": "https://f4.bcbits.com/img/0034518861_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 34518861
+        }
+      ],
+      "name": "kdot23"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/discsra",
+      "image": "https://f4.bcbits.com/img/0033074866_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 33074866
+        }
+      ],
+      "name": "discsra"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/ivanyohuno",
+      "image": "https://f4.bcbits.com/img/0013902119_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 13902119
+        }
+      ],
+      "name": "iv_yh"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/uvejs",
+      "image": "https://f4.bcbits.com/img/0039642936_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 39642936
+        }
+      ],
+      "name": "uvejs"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/silverkey_angel8",
+      "image": "https://f4.bcbits.com/img/0026053614_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 26053614
+        }
+      ],
+      "name": "clover"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/lwsdm",
+      "image": "https://f4.bcbits.com/img/0005687994_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 5687994
+        }
+      ],
+      "name": "lwsdm"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/treefingers",
+      "image": "https://f4.bcbits.com/img/0007790581_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 7790581
+        }
+      ],
+      "name": "Treefingers"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/bekbery",
+      "image": "https://f4.bcbits.com/img/0023895155_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 23895155
+        }
+      ],
+      "name": "bek"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/yuyamiike",
+      "image": "https://f4.bcbits.com/img/0036196219_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 36196219
+        }
+      ],
+      "name": "EKIIIM"
+    },
+    {
+      "@type": "Person",
+      "url": "https://bandcamp.com/raphael02",
+      "image": "https://f4.bcbits.com/img/0034416802_50.jpg",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "image_id",
+          "value": 34416802
+        }
+      ],
+      "name": "Galot7"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "art_id",
+      "value": 3386965825
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "featured_track_num",
+      "value": 1
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "license_name",
+      "value": "all_rights_reserved"
+    }
+  ],
+  "@context": "https://schema.org"
+}
