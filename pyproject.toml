@@ -23,5 +23,8 @@ dev = [
     "tdir>=1.8.2",
 ]
 
+[tool.setuptools]
+py-modules = ["pistes"]
+
 [project.scripts]
 lespistes = 'lespistes:run'
