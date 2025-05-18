@@ -175,6 +175,19 @@ wheels = [
 ]
 
 [[package]]
+name = "fil"
+version = "1.4.3"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "safer" },
+    { name = "types-ujson" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/f8/27/c439a008ea9fd1fab930d476e06435a6b56a91ad23e77dba2da666ea9ec1/fil-1.4.3.tar.gz", hash = "sha256:7abeb2ca11334d56e79a31e60c1482d445573733a18708496d96d83903c202e9", size = 3179, upload-time = "2024-01-04T18:03:08.067Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/fd/a9/d4befb27cf684c6d813fdbe87695099fa47053fe01bb8683b1a6c331411a/fil-1.4.3-py3-none-any.whl", hash = "sha256:806901c6beee6668ff9f140e013cbfbb5ce7e925b6bf2086af706419f36a7ce6", size = 3631, upload-time = "2024-01-04T18:03:06.497Z" },
+]
+
+[[package]]
 name = "idna"
 version = "3.10"
 source = { registry = "https://pypi.org/simple" }
@@ -368,6 +381,7 @@ name = "pistes"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+    { name = "fil" },
     { name = "numpy" },
     { name = "pyaudio" },
     { name = "requests" },
@@ -388,6 +402,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
+    { name = "fil", specifier = ">=1.4.3" },
     { name = "numpy", specifier = ">=2.2.6" },
     { name = "pyaudio", specifier = ">=0.2.14" },
     { name = "requests", specifier = ">=2.32.3" },
@@ -530,6 +545,15 @@ wheels = [
 ]
 
 [[package]]
+name = "safer"
+version = "5.1.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/4c/33/24d0220501e6451c64ad379f8694a9b9b22ad1fa4391dcf6076f7ddee5ed/safer-5.1.0.tar.gz", hash = "sha256:291432798173bdf6211d288e9f0ef550d4345eddd8a2bc9dfc658cb1dea8a231", size = 8660, upload-time = "2024-11-05T13:43:23.141Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/08/dc/442ba8258d4fb0624afc911f1cf5f5c6bbad20d4e82250f91184630a2f64/safer-5.1.0-py3-none-any.whl", hash = "sha256:df233b9bbbf1a85b37558208821c6f084f202d2b7f7248e61e5d6c4fd4a5bfb3", size = 10613, upload-time = "2024-11-05T13:43:21.81Z" },
+]
+
+[[package]]
 name = "shellingham"
 version = "1.5.4"
 source = { registry = "https://pypi.org/simple" }
@@ -661,6 +685,15 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/6c/89/c527e6c848739be8ceb5c44eb8208c52ea3515c6cf6406aa61932887bf58/typer-0.15.4.tar.gz", hash = "sha256:89507b104f9b6a0730354f27c39fae5b63ccd0c95b1ce1f1a6ba0cfd329997c3", size = 101559, upload-time = "2025-05-14T16:34:57.704Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/c9/62/d4ba7afe2096d5659ec3db8b15d8665bdcb92a3c6ff0b95e99895b335a9c/typer-0.15.4-py3-none-any.whl", hash = "sha256:eb0651654dcdea706780c466cf06d8f174405a659ffff8f163cfbfee98c0e173", size = 45258, upload-time = "2025-05-14T16:34:55.583Z" },
+]
+
+[[package]]
+name = "types-ujson"
+version = "5.10.0.20250326"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/cc/5c/c974451c4babdb4ae3588925487edde492d59a8403010b4642a554d09954/types_ujson-5.10.0.20250326.tar.gz", hash = "sha256:5469e05f2c31ecb3c4c0267cc8fe41bcd116826fbb4ded69801a645c687dd014", size = 8340, upload-time = "2025-03-26T02:53:39.197Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/3e/c9/8a73a5f8fa6e70fc02eed506d5ac0ae9ceafbd2b8c9ad34a7de0f29900d6/types_ujson-5.10.0.20250326-py3-none-any.whl", hash = "sha256:acc0913f569def62ef6a892c8a47703f65d05669a3252391a97765cf207dca5b", size = 7644, upload-time = "2025-03-26T02:53:38.2Z" },
 ]
 
 [[package]]
