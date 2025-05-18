@@ -28,3 +28,7 @@ py-modules = ["pistes"]
 
 [project.scripts]
 lespistes = 'lespistes:run'
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
