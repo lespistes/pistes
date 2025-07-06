@@ -1,3 +1,4 @@
+import dataclasses as dc
 import os
 from functools import cache
 from pathlib import Path
@@ -6,6 +7,12 @@ from typing import Any
 import tomlkit
 
 CONFIG_FILE = "pistes.toml"
+
+
+@dc.dataclasses
+class Config:
+    path_to_search_caches: list[str] = dc.field(default_factory=list)
+    verbose: bool = False
 
 
 @cache
